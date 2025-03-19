@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Renata Gonzaga! 👋  
 
-<!--
-**Renata-Gonzaga/Renata-Gonzaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about AI, Machine Learning, and Automation.  
+🤖 Exploring AI applications in cybersecurity and finance.  
+📚 Currently learning AI development and cloud computing.  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0077B5?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:  
+![Renata's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renata-Gonzaga&show_icons=true&theme=dark)
+
+### 📫 Let's connect:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+
